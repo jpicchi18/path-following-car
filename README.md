@@ -8,3 +8,4 @@ the position of the car relative to the track. Left and right motor speeds can b
 - [data](https://github.com/jpicchi18/path-following-car/tree/main/data): Sensor data used to design a model for weighted sensor fusion calculations in the software.
 - [final_report](https://github.com/jpicchi18/path-following-car/tree/main/final_report): software design overview, prototype logs, 
 sensor fusion calculation model, and performance analysis.
+  - written using Latex
